@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gianna c:</h1>
 
-- 🌱 I’m currently learning **Java.**
+- 🌱 I’m currently learning **MongoDB, Express, React, and Node.js**
 
 - 💬 Ask me about **anything!**
 
