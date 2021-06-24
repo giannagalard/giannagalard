@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Python and Ethical Hacking**
 
-- 💬 Ask me about **anything!**
+- 💬 Ask me about **my garden app!**
 
 - 👯 I'm looking to collaborate with **anyone, especially in hackathons.**
 
