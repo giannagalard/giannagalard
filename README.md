@@ -16,7 +16,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannagalard&show_icons=true&locale=en&layout=compact&theme=outrun" alt="giannagalard" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannagalard&show_icons=true&locale=en&layout=compact&theme=outrun" alt="giannagalard" /></p>
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=giannagalard&show_icons=true&locale=en&theme=outrun" alt="giannagalard" /></p>
