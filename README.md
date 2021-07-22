@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gianna c:</h1>
 
-- 🌱 I’m currently learning **python and ethical hacking**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **my garden app!**
 
