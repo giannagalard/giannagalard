@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gianna c:</h1>
+<h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Gianna c:</h1>
 
 - 🌱 I’m currently learning **Web Development**
 
