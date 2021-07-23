@@ -20,9 +20,8 @@
 
 
 <!-- connect with me **put at bottom** -->
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=giannagalard&show_icons=true&locale=en&theme=outrun" alt="giannagalard" /></p>
-&nbsp  
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannagalard&show_icons=true&locale=en&layout=compact&theme=outrun&hide=c#" alt="giannagalard" /></p>
-
+<p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api?username=giannagalard&show_icons=true&count_private=true&theme=outrun&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=giannagalard&layout=compact&hide_border=true&theme=outrun&bg_color=00000000&langs_count=6&hide=c%23,shaderlab">
+</p>
 
