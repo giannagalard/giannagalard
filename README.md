@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=giannagalard&show_icons=true&locale=en&theme=outrun" alt="giannagalard" /></p>
 &nbsp  
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannagalard&show_icons=true&locale=en&layout=compact&theme=outrun" alt="giannagalard" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=giannagalard&show_icons=true&locale=en&layout=compact&theme=outrun&hide=c#" alt="giannagalard" /></p>
 
 
