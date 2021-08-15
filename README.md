@@ -10,9 +10,9 @@
 <p align="center">
 ‣ 𝐍𝐚𝐦𝐞: 𝙶𝚒𝚊𝚗𝚗𝚊     </p> <p align="center">
 ‣ 𝐋𝐨𝐜𝐚𝐭𝐞𝐝: 𝙽𝚎𝚠 𝚈𝚘𝚛𝚔  </p> <p align="center">
-‣ 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧: 𝙿𝚕𝚊𝚗𝚝 𝙰𝚙𝚙  </p> <p align="center">
+‣ 𝐖𝐨𝐫𝐤𝐢𝐧𝐠 𝐨𝐧: Stay Hydrated  </p> <p align="center">
 ‣ 𝐇𝐨𝐛𝐛𝐢𝐞𝐬: 𝙼𝚞𝚜𝚒𝚌 𝚊𝚗𝚍 𝙶𝚊𝚖𝚒𝚗𝚐  </p> <p align="center">
-‣ 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: 𝚆𝚎𝚋 𝚊𝚗𝚍 𝙼𝚘𝚋𝚒𝚕𝚎 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 </p> 
+‣ 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝 </p> 
 <!-- connect with me **put at bottom** -->
 <p align="center">
   <img src ="https://github-readme-stats.vercel.app/api?username=giannagalard&show_icons=true&count_private=true&theme=outrun&hide_border=true&hide=issues,contribs&bg_color=00000000">
