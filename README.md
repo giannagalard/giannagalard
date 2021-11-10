@@ -14,8 +14,7 @@
 ‣ 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠: 𝙴𝚝𝚑𝚒𝚌𝚊𝚕 𝙷𝚊𝚌𝚔𝚒𝚗𝚐 </p> 
 <!-- connect with me **put at bottom** -->
 <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=giannagalard&show_icons=true&count_private=true&theme=outrun&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=giannagalard&layout=compact&hide_border=true&theme=outrun&bg_color=00000000&langs_count=6&hide=c%23,shaderlab">
+  <img src ="https://github-readme-stats.vercel.app/api?username=giannagalard&show_icons=true&count_private=true&theme=outrun&hide_border=true&hide=issues,contribs&bg_color=00000000"> <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=giannagalard&layout=compact&hide_border=true&theme=outrun&bg_color=00000000&langs_count=6&hide=c%23,shaderlab">
 </p>
 
 <!-- website linked to gif -->
